@@ -3,8 +3,8 @@ GEM
   specs:
     motion-sqlite3 (0.5.3)
       motion.h (~> 0.0.4)
-    motion.h (0.0.4)
-    rake (12.1.0)
+    motion.h (0.0.6)
+    rake (12.3.1)
 
 PLATFORMS
   ruby
@@ -14,4 +14,4 @@ DEPENDENCIES
   rake
 
 BUNDLED WITH
-   1.15.4
+   1.16.0
